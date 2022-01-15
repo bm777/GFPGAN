@@ -9,7 +9,6 @@ from basicsr.archs.rrdbnet_arch import RRDBNet
 from realesrgan import RealESRGANer
 
 
-
 ################################
 
 def test_inference():
